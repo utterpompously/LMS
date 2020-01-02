@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="std-info">
-                            <table id="dtBasicExample" class="table table-dark table-striped text-center">
+                            <table id="dtBasicExample" class="table table-striped text-center">
                                 <thead>
                                     <tr>
                                         <th>Reg no</th>
